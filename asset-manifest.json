@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//juandiegovp.github.io/intro-react/static/css/main.4ddc39d5.css",
+    "main.js": "/https//juandiegovp.github.io/intro-react/static/js/main.258b6a77.js",
+    "index.html": "/https//juandiegovp.github.io/intro-react/index.html",
+    "main.4ddc39d5.css.map": "/https//juandiegovp.github.io/intro-react/static/css/main.4ddc39d5.css.map",
+    "main.258b6a77.js.map": "/https//juandiegovp.github.io/intro-react/static/js/main.258b6a77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ddc39d5.css",
+    "static/js/main.258b6a77.js"
+  ]
+}
